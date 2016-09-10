@@ -1,11 +1,11 @@
 baseurl = "https://pikacloud.com/docs/"
 languageCode = "en-us"
-title = "Hugo Learn Theme"
+title = "Pikacloud documentation"
 theme = "hugo-theme-learn"
 MetaDataFormat = "yaml"
 canonifyurls = true
 
 [params]
-  editURL = "https://github.com/matcornic/hugo-learn-doc/edit/master/content/"
-  description = "Documentation for Hugo Learn Theme"
-  author = "Mathieu Cornic"
+  editURL = "https://github.com/pikacloud/docs/edit/master/content/"
+  description = "Pikacloud documentation"
+  author = "Pikacloud"
