@@ -1,4 +1,4 @@
-baseurl = "https://pikacloud.com/docs/"
+baseurl = "/docs/"
 languageCode = "en-us"
 title = "Pikacloud documentation"
 theme = "hugo-theme-learn"

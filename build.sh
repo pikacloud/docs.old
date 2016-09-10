@@ -12,4 +12,4 @@ then
 	chmod +x hugo
 	popd
 fi
-./bin/hugo
+./bin/hugo --uglyUrls=true
