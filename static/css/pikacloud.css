@@ -1,0 +1,24 @@
+/* background behind the logo*/
+#header {
+  background: #212D40;
+  border-color: #63ADF2;
+}
+
+small {
+	font-size: 0.8em;
+}
+#header a {
+	color: white;
+}
+
+/* Background color of the menu */
+#sidebar {
+	  background-color: #324376;
+}
+
+/* Background color of the menu, when clicked */
+#sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
+	  background-color: #212D40;
+  }
+
+
