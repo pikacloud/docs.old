@@ -1,8 +1,8 @@
 ---
 title: Import your public DNS entries
-prev: /dns-preparation/create-domain/
-next: /dns-preparation/activate-ssl/
-weight: 14
+prev: /dns/create-domain/
+next: /dns/activate-ssl/
+weight: 20
 ---
 
 ### Feature not yet available

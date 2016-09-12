@@ -1,7 +1,7 @@
 
 ---
 title: DNS Zones hosting
-next: /dns-preparation/
+next: /dns/prepare/
 chapter: true
 weight: 0
 icon: "<b>4. </b>"
@@ -19,3 +19,5 @@ Discover what are PikaDloud DNS services and the core-concepts behind it. Have f
   * GeoDNS
   * Import your actual configuration
   * ALIAS entries
+
+In orded to [migrate](/dns/migrate/) your domain hosting to the [PikaCloud](https://www.pikacloud.com) infrastructure, you need to setup an environment for your domain.

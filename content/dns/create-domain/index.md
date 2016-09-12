@@ -1,8 +1,8 @@
 ---
 title: Create your domain
-prev: /dns-preparation/
-next: /dns-preparation/import-public-dns/
-weight: 12
+prev: /dns/
+next: /dns/import-public-dns/
+weight: 15
 ---
 
 On the DNS page on PikaCloud, enter the domain you want to manage :

@@ -1,8 +1,8 @@
 ---
 title: Prepare your project
-prev: /dns-preparation/
-next: /dns-preparation/create-domain
-weight: 11
+prev: /dns/
+next: /dns/create-domain
+weight: 10
 ---
 
 Requirements :
@@ -13,8 +13,8 @@ You need to be [registered](https://pikacloud.com/accounts/signup/) and [logged 
 
 Then the steps are straightforward:
 
-  * [Create](/dns/prepare/create-domain) the domain on PikaCloud
-  * [Import](/dns/prepare/import-public-dns) your public DNS records on PikaCloud
-  * [Activate](/dns/prepare/activate-ssl) SSL on your domain
+  * [Create](/dns/create-domain) the domain on PikaCloud
+  * [Import](/dns/import-public-dns) your public DNS records on PikaCloud
+  * [Activate](/dns/activate-ssl) SSL on your domain
 
 At the end you are able to [migrate](/dns/migrate/) your domain on PikaCloud and start to use all our fun services !
