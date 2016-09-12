@@ -11,7 +11,7 @@ icon: "<b>4. </b>"
 
 # PikaCloud DNS Zone hosting
 
-**[PikaCloud] DNS** is a bunch of services, controlled by a central API which enables a fast and modern way to manage your domains.
+**[PikaCloud](https://www.pikacloud.com/) DNS** is a bunch of services, controlled by a central API which enables a fast and modern way to manage your domains.
 
 Discover what are PikaDloud DNS services and the core-concepts behind it. Have fun with our features !
 
